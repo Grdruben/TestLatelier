@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/TestLatelier/static/css/main.72fb27e9.chunk.css",
+    "main.js": "/TestLatelier/static/js/main.89942615.chunk.js",
+    "main.js.map": "/TestLatelier/static/js/main.89942615.chunk.js.map",
+    "runtime-main.js": "/TestLatelier/static/js/runtime-main.260681bb.js",
+    "runtime-main.js.map": "/TestLatelier/static/js/runtime-main.260681bb.js.map",
+    "static/js/2.2bf4c522.chunk.js": "/TestLatelier/static/js/2.2bf4c522.chunk.js",
+    "static/js/2.2bf4c522.chunk.js.map": "/TestLatelier/static/js/2.2bf4c522.chunk.js.map",
+    "index.html": "/TestLatelier/index.html",
+    "static/css/main.72fb27e9.chunk.css.map": "/TestLatelier/static/css/main.72fb27e9.chunk.css.map",
+    "static/js/2.2bf4c522.chunk.js.LICENSE.txt": "/TestLatelier/static/js/2.2bf4c522.chunk.js.LICENSE.txt",
+    "static/media/logoApp.eefec9f6.gif": "/TestLatelier/static/media/logoApp.eefec9f6.gif",
+    "static/media/tumblr01.83591c84.jpg": "/TestLatelier/static/media/tumblr01.83591c84.jpg",
+    "static/media/tumblr02.3fcd9a16.jpg": "/TestLatelier/static/media/tumblr02.3fcd9a16.jpg",
+    "static/media/tumblr03.01f1700d.jpg": "/TestLatelier/static/media/tumblr03.01f1700d.jpg",
+    "static/media/tumblr04.bb9b9d5e.jpg": "/TestLatelier/static/media/tumblr04.bb9b9d5e.jpg",
+    "static/media/tumblr05.a656806d.jpg": "/TestLatelier/static/media/tumblr05.a656806d.jpg",
+    "static/media/tumblr06.a7f905f4.jpg": "/TestLatelier/static/media/tumblr06.a7f905f4.jpg",
+    "static/media/tumblr07.4ac7919e.jpg": "/TestLatelier/static/media/tumblr07.4ac7919e.jpg",
+    "static/media/tumblr08.d6abe853.jpg": "/TestLatelier/static/media/tumblr08.d6abe853.jpg",
+    "static/media/tumblr09.1972bff4.jpg": "/TestLatelier/static/media/tumblr09.1972bff4.jpg",
+    "static/media/tumblr10.a7e25768.jpg": "/TestLatelier/static/media/tumblr10.a7e25768.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.260681bb.js",
+    "static/js/2.2bf4c522.chunk.js",
+    "static/css/main.72fb27e9.chunk.css",
+    "static/js/main.89942615.chunk.js"
+  ]
+}
